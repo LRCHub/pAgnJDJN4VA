@@ -1,0 +1,288 @@
+{
+  "version": 1,
+  "base_track": "Back In Black",
+  "base_artist": "AC/DC",
+  "createdAt": "2026-02-11T19:49:52.317562Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Back In Black",
+      "artist": "AC/DC",
+      "has_synced": true,
+      "path": "select/01_Back_In_Black_AC_DC.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Back In Black - Live in Rotterdam, Netherlands - April 2003",
+      "artist": "Shakira",
+      "has_synced": true,
+      "path": "select/02_Back_In_Black_-_Live_in_Rotterdam,_Netherlands_-_April_2003_Shakira.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Back In Black",
+      "artist": "Shakira",
+      "has_synced": true,
+      "path": "select/03_Back_In_Black_Shakira.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Back in Black",
+      "artist": "Anastacia",
+      "has_synced": true,
+      "path": "select/04_Back_in_Black_Anastacia.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Back In Black",
+      "artist": "AC/DC",
+      "has_synced": true,
+      "path": "select/05_Back_In_Black_AC_DC.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Back In Black",
+      "artist": "Living Colour",
+      "has_synced": true,
+      "path": "select/06_Back_In_Black_Living_Colour.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Back In Black (Live)",
+      "artist": "AC/DC",
+      "has_synced": false,
+      "path": "select/07_Back_In_Black_(Live)_AC_DC.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Back in Black",
+      "artist": "AC/DC",
+      "has_synced": true,
+      "path": "select/08_Back_in_Black_AC_DC.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Back in Black",
+      "artist": "AC/DC",
+      "has_synced": true,
+      "path": "select/09_Back_in_Black_AC_DC.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "0537 - AC DC - Back In Black",
+      "artist": "AC-DC",
+      "has_synced": true,
+      "path": "select/10_0537_-_AC_DC_-_Back_In_Black_AC-DC.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Back In Black",
+      "artist": "ACDC",
+      "has_synced": true,
+      "path": "select/11_Back_In_Black_ACDC.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Back in Black",
+      "artist": "AC-DC",
+      "has_synced": true,
+      "path": "select/12_Back_in_Black_AC-DC.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Back In Black",
+      "artist": "AC\\DC",
+      "has_synced": true,
+      "path": "select/13_Back_In_Black_AC_DC.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Back In Black",
+      "artist": "Ac Dc",
+      "has_synced": true,
+      "path": "select/14_Back_In_Black_Ac_Dc.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Back In Black (feat. Nas)",
+      "artist": "Santana feat. Nas",
+      "has_synced": true,
+      "path": "select/15_Back_In_Black_(feat._Nas)_Santana_feat._Nas.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Back In Black (featuring Nas)",
+      "artist": "Santana",
+      "has_synced": true,
+      "path": "select/16_Back_In_Black_(featuring_Nas)_Santana.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Amy's Back In Austin",
+      "artist": "Little Texas",
+      "has_synced": true,
+      "path": "select/17_Amy's_Back_In_Austin_Little_Texas.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Amy's Back in Austin (Album Version)",
+      "artist": "Little Texas",
+      "has_synced": true,
+      "path": "select/18_Amy's_Back_in_Austin_(Album_Version)_Little_Texas.lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "Back In My Arms Again - Edit",
+      "artist": "Kenny Chesney",
+      "has_synced": true,
+      "path": "select/19_Back_In_My_Arms_Again_-_Edit_Kenny_Chesney.lrc"
+    },
+    {
+      "id": "lrclib_20",
+      "source": "lrclib",
+      "title": "Back In The Goodle Days",
+      "artist": "John Hartford",
+      "has_synced": true,
+      "path": "select/20_Back_In_The_Goodle_Days_John_Hartford.lrc"
+    },
+    {
+      "id": "lrclib_21",
+      "source": "lrclib",
+      "title": "If We're Not Back In Love By Monday",
+      "artist": "Merle Haggard",
+      "has_synced": true,
+      "path": "select/21_If_We're_Not_Back_In_Love_By_Monday_Merle_Haggard.lrc"
+    },
+    {
+      "id": "lrclib_22",
+      "source": "lrclib",
+      "title": "Out of My Head and Back in My Bed",
+      "artist": "Loretta Lynn",
+      "has_synced": true,
+      "path": "select/22_Out_of_My_Head_and_Back_in_My_Bed_Loretta_Lynn.lrc"
+    },
+    {
+      "id": "lrclib_23",
+      "source": "lrclib",
+      "title": "Out Of My Head And Back In My Bed",
+      "artist": "Loretta Lynn",
+      "has_synced": true,
+      "path": "select/23_Out_Of_My_Head_And_Back_In_My_Bed_Loretta_Lynn.lrc"
+    },
+    {
+      "id": "lrclib_24",
+      "source": "lrclib",
+      "title": "back in the saddle",
+      "artist": "Ashley Cooke",
+      "has_synced": true,
+      "path": "select/24_back_in_the_saddle_Ashley_Cooke.lrc"
+    },
+    {
+      "id": "lrclib_25",
+      "source": "lrclib",
+      "title": "DON'T LOOK BACK IN ANGER",
+      "artist": "Oasis",
+      "has_synced": true,
+      "path": "select/25_DON'T_LOOK_BACK_IN_ANGER_Oasis.lrc"
+    },
+    {
+      "id": "lrclib_26",
+      "source": "lrclib",
+      "title": "Back in the Day (feat. Jay-Z)",
+      "artist": "Missy Elliott",
+      "has_synced": false,
+      "path": "select/26_Back_in_the_Day_(feat._Jay-Z)_Missy_Elliott.txt"
+    },
+    {
+      "id": "lrclib_27",
+      "source": "lrclib",
+      "title": "Back in Town",
+      "artist": "Beginner",
+      "has_synced": true,
+      "path": "select/27_Back_in_Town_Beginner.lrc"
+    },
+    {
+      "id": "lrclib_28",
+      "source": "lrclib",
+      "title": "Look Back In Anger",
+      "artist": "David Bowie",
+      "has_synced": false,
+      "path": "select/28_Look_Back_In_Anger_David_Bowie.txt"
+    },
+    {
+      "id": "lrclib_29",
+      "source": "lrclib",
+      "title": "Look Back In Anger",
+      "artist": "David Bowie",
+      "has_synced": true,
+      "path": "select/29_Look_Back_In_Anger_David_Bowie.lrc"
+    },
+    {
+      "id": "lrclib_30",
+      "source": "lrclib",
+      "title": "Look Back in Anger",
+      "artist": "David Bowie",
+      "has_synced": true,
+      "path": "select/30_Look_Back_in_Anger_David_Bowie.lrc"
+    },
+    {
+      "id": "lrclib_31",
+      "source": "lrclib",
+      "title": "Don't Look Back In Anger",
+      "artist": "Yumi Zouma",
+      "has_synced": true,
+      "path": "select/31_Don't_Look_Back_In_Anger_Yumi_Zouma.lrc"
+    },
+    {
+      "id": "lrclib_32",
+      "source": "lrclib",
+      "title": "The Boys Are Back In Town",
+      "artist": "Yung Gravy",
+      "has_synced": true,
+      "path": "select/32_The_Boys_Are_Back_In_Town_Yung_Gravy.lrc"
+    },
+    {
+      "id": "lrclib_33",
+      "source": "lrclib",
+      "title": "The Boys are Back In Town (feat. Pouya, Ramirez & Trippythakid)",
+      "artist": "Yung Gravy",
+      "has_synced": true,
+      "path": "select/33_The_Boys_are_Back_In_Town_(feat._Pouya,_Ramirez_&_Trippythakid)_Yung_Gravy.lrc"
+    },
+    {
+      "id": "lrclib_34",
+      "source": "lrclib",
+      "title": "Back in the Days (Skit)",
+      "artist": "MF DOOM",
+      "has_synced": true,
+      "path": "select/34_Back_in_the_Days_(Skit)_MF_DOOM.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Back In Black",
+      "artist": "AC/DC",
+      "has_synced": false,
+      "path": "select/pl_01_Back_In_Black_AC_DC.txt"
+    }
+  ]
+}
